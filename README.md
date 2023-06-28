@@ -1,5 +1,5 @@
 - Hi, I’m @raydrost
-- I’m interested in technology in general, mostly here to make use of open source code.
+- I’m mostly here to make use of open source code, maybe add some of my own.
 - I’m currently in high school, in the International Baccalaureate program.
 
 <!---
